@@ -20,10 +20,12 @@
     basics: resume.basics
   %}
   <main>
+    {% comment %}
     {% 
       include "components/summary.liquid", 
       summary: resume.basics.summary 
     %}
+    {% endcomment %}
     {% 
       include "components/experience.liquid", 
       work: resume.work
