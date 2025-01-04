@@ -12,7 +12,8 @@
   "author": "Michael Engen",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^22.12.1"
+    "puppeteer": "^22.12.1",
+    "puppeteer-core": "^23.11.1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0"
