@@ -1,0 +1,24 @@
+<section>
+  <h2 style="max-width: 125px">Funding & Awards</h2>
+  {%- for funding in resume.funding %}
+    <section>
+      <header>
+        <h3>
+          {{ funding.studyType }} in {{ funding.area }}
+        </h3>
+        <span>
+          {{ funding.institution }}
+          {%- if funding.focus -%}
+          , <span class="focus">
+            Focus: {{ funding.focus }}
+          </span>
+          {%- endif %}
+        </span>
+        <span class="date">
+          {{ funding.startDate }} &ndash; {{ funding.endDate }}
+        </span>
+      </header>
+    </section>
+
+  {%- endfor %}
+</section>

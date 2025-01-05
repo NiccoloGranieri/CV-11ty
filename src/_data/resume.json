@@ -236,5 +236,92 @@
             "startDate": "2008",
             "endDate": "2008"
         }
+    ],
+    "funding": [
+        {
+            "institution": "Birmingham City University",
+            "area": "Education",
+            "studyType": "Fellowship",
+            "startDate": "2021",
+            "endDate": "2021",
+            "focus": "Teaching"
+        },
+        {
+            "institution": "Royal Birmigham Conservatoire, BCU",
+            "area": "Music Technology",
+            "studyType": "Doctor of Philosophy",
+            "studyTypeShort": "Ph.D.",
+            "startDate": "2016",
+            "endDate": "2020",
+            "dissertation": "ugmenting the experience of playing the piano: controlling audio processing through ancillary gestures.",
+            "focus": "audio-gestural interaction"
+        },
+        {
+            "institution": "Birmingham City University",
+            "area": "Education",
+            "studyType": "Associate Fellowship",
+            "startDate": "2017",
+            "endDate": "2017",
+            "focus": "Teaching"
+        },
+        {
+            "institution": "Birmingham City University",
+            "area": "Research Methods",
+            "studyType": "PGCert",
+            "startDate": "2017",
+            "endDate": "2017",
+            "focus": "Research"
+        },
+        {
+            "institution": "Conservatorio di Musica G. Tartini",
+            "area": "Music Technology",
+            "studyType": "Bachelor in Arts",
+            "studyTypeShort": "B.A.",
+            "startDate": "2012",
+            "endDate": "2015",
+            "focus": "Music Technology"
+        },
+        {
+            "institution": "Lizard Accademia Musicale",
+            "area": "Music Composition",
+            "studyType": "Elective Course",
+            "startDate": "2014",
+            "endDate": "2014"
+        },
+        {
+            "institution": "Conservatorio di Musica G. Tartini",
+            "area": "Wave Field Synthesis",
+            "studyType": "Workshop",
+            "startDate": "2014",
+            "endDate": "2014"
+        },
+        {
+            "institution": "Conservatorio di Musica G. Tartini",
+            "area": "John Cage Variations Projects",
+            "studyType": "Masterclass",
+            "startDate": "2014",
+            "endDate": "2014"
+        },
+        {
+            "institution": "London School of Sound",
+            "area": "Electronic Music Production",
+            "studyType": "Elective Course",
+            "startDate": "2013",
+            "endDate": "2013"
+        },
+        {
+            "institution": "Liceo Francesco Petrarca",
+            "area": "Language Course",
+            "studyType": "High School Diploma",
+            "startDate": "2006",
+            "endDate": "2011"
+        },
+        {
+            "institution": "British School of Trieste",
+            "area": "English Language Qualification",
+            "studyType": "Certificate of Advanced English",
+            "startDate": "2008",
+            "endDate": "2008"
+        }
     ]
 }
