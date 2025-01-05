@@ -1,105 +1,240 @@
 {
     "basics": {
-        "name": "Michael Engen",
-        "label": "Full-Stack Software Developer",
-        "email": "resume@michaelengen.com",
-        "url": "michaelengen.com",
+        "name": "Niccolò Granieri",
+        "label": "Music Interaction Designer",
+        "email": "granieriniccolo@gmail.com",
+        "url": "niccologranieri.com",
         "location": {
-            "city": "Columbus",
-            "region": "OH",
-            "countryCode": "US"
+            "city": "Trieste",
+            "region": "TS",
+            "countryCode": "IT"
         },
-        "summary": "I am a software developer skilled in full-stack development, technical writing, and scientific programming. Passionate about helping others through technology, I've built end-to-end testing tools, crafted extensive documentation, and worked directly with developers to identify product improvements. I value communication highly and have great experience presenting technical content, including six years of teaching experience, multiple published research papers, and presentations to technical and non-technical audiences.",
         "profiles": [
             {
-                "network": "in/michael-engen",
-                "url": "https://www.linkedin.com/in/michael-engen/"
+                "network": "in/niccolò-granieri/",
+                "url": "https://www.linkedin.com/in/niccolò-granieri/"
             }
         ]
     },
     "work": [
         {
-            "name": "PayPal, remote",
-            "position": "Integration Engineer III",
-            "startDate": "2021",
+            "name": "4DODO",
+            "position": "Backend Developer",
+            "startDate": "Sep 2024",
             "endDate": "Present",
             "highlights": [
-                "Designed and developed full-stack application with Flask and Javascript for configuring and testing REST APIs in conjunction with frontend SDKs",
-                "Crafted extensive technical documentation and sample code for new product features to accelerate product adoption",
-                "Gathered product and documentation feedback by collaborating directly with external developers"
+                "TouchDesigner & Python development for interactive multimedia installations and 4DODO 4U system."
             ]
         },
         {
-            "name": "Bridgerock Data",
-            "position": "Software Engineer",
-            "startDate": "2020",
-            "endDate": "2021",
+            "name": "Chichester University",
+            "position": "External Examiner",
+            "startDate": "Nov 2020",
+            "endDate": "Present",
             "highlights": [
-                "Created, managed, and migrated PostgreSQL databases in a data lake architecture",
-                "Identified external stakeholders' business-intelligence needs and produced custom SQL-powered reports for analyzing key performance indicators",
-                "Implemented a new database and computing infrastructure using Docker, shell, and AWS",
-                "Collaborated in an agile development environment and gained experience in a fast-paced startup"
+                "External examiner for the following courses: MA Music Education, MA Composition for Film, TV and Games, MA Sound Design for Visual Media programmes in partnership with Sonus Factory."            ]
+        },
+        {
+            "name": "VIVAVOCE S.r.l.",
+            "position": "Digital Transformation Consultant",
+            "startDate": "Feb 2024",
+            "endDate": "Jul 2024",
+            "highlights": [
+                "Analysis of existing software to propose two development alternatives and cloud migration."
             ]
         },
         {
-            "name": "University of Florida",
-            "position": "Software Developer",
-            "startDate": "2018",
-            "endDate": "2020",
+            "name": "Client Protected by NDA",
+            "position": "Audio Software Developer",
+            "startDate": "May 2023",
+            "endDate": "May 2024",
             "highlights": [
-                "Developed an open-source online learning platform for mathematics instructors",
-                "Worked directly with users to collect and implement product feedback"
+                "Software Developer for an Automotive Audio Project, client protected by NDA."            ]
+        },
+        {
+            "name": "IRCCS Burlo Garofolo",
+            "position": "Audio Researcher",
+            "startDate": "Mar 2023",
+            "endDate": "Dec 2023",
+            "highlights": [
+                "Researcher at children's hospital IRCCS Burlo Garofolo in the department of Audiology for the project titled Unravelling childhood sensorineural hearing loss outcome variability."
             ]
         },
         {
-            "name": "Université Paris 13",
-            "position": "Chateaubriand Research Fellow",
-            "startDate": "2019",
-            "endDate": "2019",
-            "period": "Fall&nbsp;2019",
+            "name": "Civica Orchestra di Fiati di Trieste",
+            "position": "Lecturer in Game Audio",
+            "startDate": "Sept 2022",
+            "endDate": "Feb 2023",
             "highlights": [
-                "Wrote successful application for a research collaboration with French computer scientists",
-                "Conducted novel mathematical research in a multicultural environment"
+                "Lecturer for the Game Audio course for students of all ages and levels of expertise."
             ]
         },
         {
-            "name": "Oak Ridge National Laboratory",
-            "position": "NSF Mathematical Sciences Graduate Intern",
-            "startDate": "May&nbsp;2017",
-            "endDate": "July&nbsp;2017",
-            "period": "Summer&nbsp;2017",
+            "name": "Birmingham City University",
+            "position": "Lecturer in Digital Media Technology",
+            "startDate": "Jan 2020",
+            "endDate": "Jul 2022",
             "highlights": [
-                "Developed a graph mining algorithm as a method of natural language feature selection for machine learning classification project"
+                "Lecturer in Birmingham City University's Department of Digital Media Technology teaching from undergraduate to post-graduate across different faculties. Some of the modules taught were: NIME, Game Audio, A/V Fundamentals, Computer Programming, Audio Systems."
+            ]
+        },
+        {
+            "name": "Brown University",
+            "position": "Workshop Facilitator and Academic Expert",
+            "period": "Oct 2019",
+            "highlights": [
+                "Prepared and delivered workshop around the topic of Machine Learning for Creative Applications using ml.lib, a library of machine learning externals for Max and Pure Data."
+            ]
+        },
+        {
+            "name": "Audiobulb",
+            "position": "Freelance Software Developer an UI Designer",
+            "startDate": "Feb 2019",
+            "endDate": "Jan 2020",
+            "highlights": [
+                "Max software developer for the AMBIENT plugin."
+            ]
+        },
+        {
+            "name": "Royal Birmingham Conservatoire",
+            "position": "Teaching Fellow",
+            "startDate": "Sept 2018",
+            "endDate": "Jan 2020",
+            "highlights": [
+                "Techniques of Electronic Music Elective, Interactive Music Technology Performance, Music Technology Contexts."
+            ]
+        },
+        {
+            "name": "Royal Birmingham Conservatoire",
+            "position": "Student Tutor",
+            "startDate": "Sept 2018",
+            "endDate": "Jan 2020",
+            "highlights": [
+                "One-to-one tutoring with students in their final year to guide them in the conceptualisation and realisation of their final year projects."
+            ]
+        },
+        {
+            "name": "Coventry School of Art and Design",
+            "position": "Teaching Fellow",
+            "startDate": "Feb 2018",
+            "endDate": "Jul 2018",
+            "highlights": [
+                "Lecturer for the Multimedia Programming Environments module. Subjects include designing an interactive musical system using Max MSP 6 and the usage of the JS object to implement write and design objects."
+            ]
+        },
+        {
+            "name": "Birmingham City University",
+            "position": "Teaching Fellow",
+            "startDate": "Sept 2016",
+            "endDate": "July 2018",
+            "highlights": [
+                "Lecturer for the Audio Systems module. Subjects include designing an interactive system using the Arduino board, coding in the Arduino IDE and generating sound using the Mozzi library or Pure Data and various sensors."
+            ]
+        },
+        {
+            "name": "Birmingham City University",
+            "position": "Demonstrator",
+            "startDate": "Sept 2016",
+            "endDate": "Jul 2017",
+            "highlights": [
+                "Demonstrator for the Lab part of the Audio Systems module. Subjects include helping students build a pre-amplifier, soldering, testing."
+            ]
+        },
+        {
+            "name": "Integra Lab, Royal Birmingham Conservatoire",
+            "position": "Assistant Researcher",
+            "startDate": "Sept 2015",
+            "endDate": "Jun 2016",
+            "highlights": [
+                "Assistant to all researchers in the Integra Lab. Developed a set of modules for the Integra Live softwares emulating the Eurorack modular synthesiser format."
             ]
         }
     ],
     "education": [
         {
-            "institution": "University of Florida",
-            "area": "Mathematics",
+            "institution": "Birmingham City University",
+            "area": "Education",
+            "studyType": "Fellowship",
+            "startDate": "2021",
+            "endDate": "2021",
+            "focus": "Teaching"
+        },
+        {
+            "institution": "Royal Birmigham Conservatoire, BCU",
+            "area": "Music Technology",
             "studyType": "Doctor of Philosophy",
             "studyTypeShort": "Ph.D.",
+            "startDate": "2016",
+            "endDate": "2020",
+            "dissertation": "ugmenting the experience of playing the piano: controlling audio processing through ancillary gestures.",
+            "focus": "audio-gestural interaction"
+        },
+        {
+            "institution": "Birmingham City University",
+            "area": "Education",
+            "studyType": "Associate Fellowship",
             "startDate": "2017",
-            "endDate": "2021",
-            "dissertation": "*Universal Combinatorial Structures*",
-            "focus": "Discrete Mathematics"
-        },
-        {
-            "institution": "University of Florida",
-            "area": "Mathematics",
-            "studyType": "Master of Science",
-            "studyTypeShort": "M.S.",
-            "startDate": "2015",
             "endDate": "2017",
-            "focus": "Discrete Mathematics"
+            "focus": "Teaching"
         },
         {
-            "institution": "University of Florida",
-            "area": "Mathematics",
-            "studyType": "Bachelor of Science",
-            "studyTypeShort": "B.S.",
+            "institution": "Birmingham City University",
+            "area": "Research Methods",
+            "studyType": "PGCert",
+            "startDate": "2017",
+            "endDate": "2017",
+            "focus": "Research"
+        },
+        {
+            "institution": "Conservatorio di Musica G. Tartini",
+            "area": "Music Technology",
+            "studyType": "Bachelor in Arts",
+            "studyTypeShort": "B.A.",
+            "startDate": "2012",
+            "endDate": "2015",
+            "focus": "Music Technology"
+        },
+        {
+            "institution": "Lizard Accademia Musicale",
+            "area": "Music Composition",
+            "studyType": "Elective Course",
+            "startDate": "2014",
+            "endDate": "2014"
+        },
+        {
+            "institution": "Conservatorio di Musica G. Tartini",
+            "area": "Wave Field Synthesis",
+            "studyType": "Workshop",
+            "startDate": "2014",
+            "endDate": "2014"
+        },
+        {
+            "institution": "Conservatorio di Musica G. Tartini",
+            "area": "John Cage Variations Projects",
+            "studyType": "Masterclass",
+            "startDate": "2014",
+            "endDate": "2014"
+        },
+        {
+            "institution": "London School of Sound",
+            "area": "Electronic Music Production",
+            "studyType": "Elective Course",
             "startDate": "2013",
-            "endDate": "2015"
+            "endDate": "2013"
+        },
+        {
+            "institution": "Liceo Francesco Petrarca",
+            "area": "Language Course",
+            "studyType": "High School Diploma",
+            "startDate": "2006",
+            "endDate": "2011"
+        },
+        {
+            "institution": "British School of Trieste",
+            "area": "English Language Qualification",
+            "studyType": "Certificate of Advanced English",
+            "startDate": "2008",
+            "endDate": "2008"
         }
     ]
 }
