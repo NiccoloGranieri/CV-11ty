@@ -1,0 +1,11 @@
+<section>
+  <h2 style="max-width: 125px">Publications</h2>
+  {%- for publications in resume.publications %}
+    <section>
+        <span>
+          {{ publications.text }}
+        </span>
+    </section>
+
+  {%- endfor %}
+</section>

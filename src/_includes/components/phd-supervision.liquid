@@ -1,0 +1,19 @@
+<section>
+  <h2 style="max-width: 125px">Supervisory Roles</h2>
+  {%- for phd-sup in resume.phd-supervision %}
+    <section>
+      <header>
+        <h3>
+          {{ phd-sup.title }}<i style="font-weight: normal"></i>
+        </h3>
+        <span class="date">
+          {{ phd-sup.startDate }} &ndash; {{ phd-sup.endDate }}
+        </span>
+      </header>
+      <span>
+        {{ phd-sup.name }}, {{ phd-sup.institution }}, {{ phd-sup.location }}
+      </span>
+    </section>
+
+  {%- endfor %}
+</section>

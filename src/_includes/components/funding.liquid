@@ -4,20 +4,15 @@
     <section>
       <header>
         <h3>
-          {{ funding.studyType }} in {{ funding.area }}
+          {{ funding.fundName }}<i style="font-weight: normal">, {{ funding.institution }}</i>
         </h3>
-        <span>
-          {{ funding.institution }}
-          {%- if funding.focus -%}
-          , <span class="focus">
-            Focus: {{ funding.focus }}
-          </span>
-          {%- endif %}
-        </span>
         <span class="date">
-          {{ funding.startDate }} &ndash; {{ funding.endDate }}
+          {{ funding.awardDate }}
         </span>
       </header>
+      <span>
+        {{ funding.description }}
+      </span>
     </section>
 
   {%- endfor %}

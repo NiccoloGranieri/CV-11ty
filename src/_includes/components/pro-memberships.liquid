@@ -1,0 +1,18 @@
+<section>
+  <h2 style="max-width: 125px">Professional Memberships</h2>
+  {%- for pro-memb in resume.pro-memberships %}
+    <section>
+      <header>
+        <h3>
+          {{ pro-memb.role }}
+        </h3>
+        <span class="date"></span>
+      </header>
+      <span>
+        {%- for entry in pro-memb.organization %}
+            {{ entry.name }} ({{ entry.year }}){% if forloop.last == false %},{% endif %}
+        {%- endfor %}
+      </span>
+    </section>
+  {%- endfor %}
+</section>

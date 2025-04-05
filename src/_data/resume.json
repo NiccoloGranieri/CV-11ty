@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Niccolò Granieri",
-        "label": "Music Interaction Designer",
+        "label": "Interactive Designer - Senior Developer",
         "email": "granieriniccolo@gmail.com",
         "url": "niccologranieri.com",
         "location": {
@@ -19,7 +19,7 @@
     "work": [
         {
             "name": "4DODO",
-            "position": "Backend Developer",
+            "position": "Interactive Designer - Senior Developer",
             "startDate": "Sep 2024",
             "endDate": "Present",
             "highlights": [
@@ -153,8 +153,8 @@
     "education": [
         {
             "institution": "Birmingham City University",
-            "area": "Education",
-            "studyType": "Fellowship",
+            "area": "Teaching in Higher Education",
+            "studyType": "HEA Fellow",
             "startDate": "2021",
             "endDate": "2021",
             "focus": "Teaching"
@@ -171,8 +171,8 @@
         },
         {
             "institution": "Birmingham City University",
-            "area": "Education",
-            "studyType": "Associate Fellowship",
+            "area": "Teaching in Higher Education",
+            "studyType": "HEA Associate Fellow",
             "startDate": "2017",
             "endDate": "2017",
             "focus": "Teaching"
@@ -188,15 +188,15 @@
         {
             "institution": "Conservatorio di Musica G. Tartini",
             "area": "Music Technology",
-            "studyType": "Bachelor in Arts",
-            "studyTypeShort": "B.A.",
+            "studyType": "Bachelor in Music",
+            "studyTypeShort": "BMus",
             "startDate": "2012",
             "endDate": "2015",
             "focus": "Music Technology"
         },
         {
             "institution": "Lizard Accademia Musicale",
-            "area": "Music Composition",
+            "area": "Soundtrack Music Composition",
             "studyType": "Elective Course",
             "startDate": "2014",
             "endDate": "2014"
@@ -232,96 +232,101 @@
         {
             "institution": "British School of Trieste",
             "area": "English Language Qualification",
-            "studyType": "Certificate of Advanced English",
+            "studyType": "Certificate of Advanced English (CAE)",
             "startDate": "2008",
             "endDate": "2008"
         }
     ],
     "funding": [
         {
-            "institution": "Birmingham City University",
-            "area": "Education",
-            "studyType": "Fellowship",
-            "startDate": "2021",
-            "endDate": "2021",
-            "focus": "Teaching"
-        },
-        {
+            "fundName": "Ernest Newman Prize",
             "institution": "Royal Birmigham Conservatoire, BCU",
-            "area": "Music Technology",
-            "studyType": "Doctor of Philosophy",
-            "studyTypeShort": "Ph.D.",
-            "startDate": "2016",
-            "endDate": "2020",
-            "dissertation": "ugmenting the experience of playing the piano: controlling audio processing through ancillary gestures.",
-            "focus": "audio-gestural interaction"
+            "description": "£100 - Best paper presented at the Research Study Day",
+            "awardDate": "May 2017"
         },
         {
+            "fundName": "STEAM Bursary",
             "institution": "Birmingham City University",
-            "area": "Education",
-            "studyType": "Associate Fellowship",
-            "startDate": "2017",
-            "endDate": "2017",
-            "focus": "Teaching"
+            "description": "£14.296 - Annual Birmingham City University PhD Classic Doctoral Training Grant and PhD Fee Waiver",
+            "awardDate": "Feb 2017"
         },
         {
+            "fundName": "Erasmus+ Research Bursary",
+            "institution": "Conservatorio di Musica G. Tartini",
+            "description": "€4.112 - Erasmus+ Research bursary awarded as part of the EU Work With Music programme",
+            "awardDate": "Dec 2014"
+        }
+    ],
+    "publications": [
+        {
+            "text": "Updated list of all publications available on request or at niccologranieri.com/publications"
+        }
+    ],
+    "phd-supervision": [
+        {
+            "name": "Danilo Randazzo",
+            "position": "PhD Part-Time",
+            "startDate": "Sep 2022",
+            "endDate": "Ongoing",
             "institution": "Birmingham City University",
-            "area": "Research Methods",
-            "studyType": "PGCert",
-            "startDate": "2017",
-            "endDate": "2017",
-            "focus": "Research"
+            "location": "Birmingham, UK",
+            "title": "Real-time Timbre Augmentation: Performing Inherent Sound Properties"
         },
         {
-            "institution": "Conservatorio di Musica G. Tartini",
-            "area": "Music Technology",
-            "studyType": "Bachelor in Arts",
-            "studyTypeShort": "B.A.",
-            "startDate": "2012",
-            "endDate": "2015",
-            "focus": "Music Technology"
+            "name": "William Wilson",
+            "position": "PhD Full-Time",
+            "startDate": "Sep 2021",
+            "endDate": "Ongoing",
+            "institution": "Birmingham City University",
+            "location": "Birmingham, UK",
+            "title": "Computational Analysis of Style in Traditional Fiddle Playing"
+        }
+    ],
+    "pro-memberships": [
+        {
+            "role": "Meta Reviewer",
+            "organization": [
+                {"name": "NIME", "year": "2024"}
+            ]
         },
         {
-            "institution": "Lizard Accademia Musicale",
-            "area": "Music Composition",
-            "studyType": "Elective Course",
-            "startDate": "2014",
-            "endDate": "2014"
+            "role": "Paper Reviewer",
+            "organization": [
+                {"name": "NIME", "year": "2020-2024"},
+                {"name": "IS^2", "year": "2023"},
+                {"name": "FMA", "year": "2022"},
+                {"name": "HAID", "year": "2022"},
+                {"name": "CHI", "year": "2021"},
+                {"name": "Audio Mostly", "year": "2021"},
+                {"name": "Eurasia Graphics", "year": "2021"},
+                {"name": "Digital Creativity Journal", "year": "2021"},
+                {"name": "Sound Image and Interaction Journal", "year": "2020"},
+                {"name": "RIFFS Journal", "year": "2019-2020"}
+            ]
         },
         {
-            "institution": "Conservatorio di Musica G. Tartini",
-            "area": "Wave Field Synthesis",
-            "studyType": "Workshop",
-            "startDate": "2014",
-            "endDate": "2014"
+            "role": "Music Reviewer",
+            "organization": [
+                {"name": "NIME", "year": "2020-2022"}
+            ]
         },
         {
-            "institution": "Conservatorio di Musica G. Tartini",
-            "area": "John Cage Variations Projects",
-            "studyType": "Masterclass",
-            "startDate": "2014",
-            "endDate": "2014"
+            "role": "Workshop Reviewer",
+            "organization": [
+                {"name": "Audio Mostly", "year": "2021"}
+            ]
         },
         {
-            "institution": "London School of Sound",
-            "area": "Electronic Music Production",
-            "studyType": "Elective Course",
-            "startDate": "2013",
-            "endDate": "2013"
+            "role": "Installation Chair",
+            "organization": [
+                {"name": "NIME", "year": "2020"}
+            ]
         },
         {
-            "institution": "Liceo Francesco Petrarca",
-            "area": "Language Course",
-            "studyType": "High School Diploma",
-            "startDate": "2006",
-            "endDate": "2011"
-        },
-        {
-            "institution": "British School of Trieste",
-            "area": "English Language Qualification",
-            "studyType": "Certificate of Advanced English",
-            "startDate": "2008",
-            "endDate": "2008"
+            "role": "Founder and Committee Member",
+            "organization": [
+                {"name": "Technology in Musical Performance Study Group", "year": "2019"}
+            ]
         }
     ]
 }

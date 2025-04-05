@@ -38,6 +38,18 @@
       include "components/funding.liquid", 
       funding: resume.funding
     %}
+    {% 
+      include "components/publications.liquid", 
+      publications: resume.publications
+    %}
+    {% 
+      include "components/phd-supervision.liquid", 
+      phd-supervision: resume.phd-supervision
+    %}
+    {% 
+      include "components/pro-memberships.liquid", 
+      pro-memberships: resume.pro-memberships
+    %}
   </main>
 </body>
 
